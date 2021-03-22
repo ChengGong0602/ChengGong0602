@@ -39,7 +39,6 @@ I❤️ code, Python and anything **CREATIVE**✨
 - [가장 쉽게 배우는 머신러닝](https://spartacodingclub.kr/online/ml_basic) (2021)
 - [이미지 처리로 시작하는 딥러닝](https://spartacodingclub.kr/online/dl) (2020)
 
-[![chenggong0602's GitHub stats](https://github-readme-stats.vercel.app/api?username=chenggong0602&theme=react&show_icons=true&count_private=true&hide=contribs,prs&cache_seconds=1800)](https://github.com/ChengGong0602/Chenggong0602)
 
 ## &#x1f4c8; My GitHub Stats
 
