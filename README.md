@@ -2,7 +2,7 @@
 
 I❤️ code, Python and anything **CREATIVE**✨
 
-[![Gmail Badge](https://img.shields.io/badge/-chenggong0602@163.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kairess87@gmail.com)](mailto:kairess87@gmail.com) [![Youtube Channel](https://img.shields.io/badge/-빵형의%20개발도상국-c14438?style=flat-square&logo=Youtube&link=https://www.youtube.com/channel/UC9PB9nKYqKEx_N3KM-JVTpg)](https://www.youtube.com/channel/UC9PB9nKYqKEx_N3KM-JVTpg)
+[![Email Badge](https://img.shields.io/badge/-chenggong0602@163.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:chenggong0602@.com)](mailto:chenggong@163.com)
 ![](https://komarev.com/ghpvc/?username=kairess)
 
 
