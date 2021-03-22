@@ -5,6 +5,11 @@ I❤️ code, Python and anything **CREATIVE**✨
 [![Email Badge](https://img.shields.io/badge/-chenggong0602@163.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:chenggong0602@163.com)](mailto:chenggong0602@163.com)
 ![](https://komarev.com/ghpvc/?username=chenggong0602)
 
+## 📬 Get in touch
+
+- LinkedIn: [linkedin.com/in/chenggong-li-ai-5331501aa/][1]
+- Twitter: [twitter.com/chenggong_li][2]
+- Blog: [https://ai-chenggong.blogspot.com/][3]
 
 ## 💻 Technologies I Love
 
