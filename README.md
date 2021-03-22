@@ -22,18 +22,16 @@ I❤️ code, Python and anything **CREATIVE**✨
 
 ## 📘 Bio
 
-- 🏢 I'm currently working at **[The Matrix](https://www.m47rix.com)**
-- 🌍 YouTuber [빵형의 개발도상국](https://www.youtube.com/channel/UC9PB9nKYqKEx_N3KM-JVTpg)
+- 🏢 I'm currently working at **[Zyfesco](zyfesco.com.cn/ai)**
+- 🌍 YouTuber [Artificial Intelligence Applications](https://www.youtube.com/channel/UCPgM2w3N2PnQvoqxA9CtOBQ)
 - ⚙️ I love to create creative A.I. solutions
 - 💬 I love to talking about solution business. Don't hesitate to contact me.
 - 🌱 Learning developing hardwares and serial communication using Python
 - 🎄 Woodworking beginner
-- 💉 Surprise: I'm a huge fan of Bloodborne and From Software games. Fear the old blood.
 
 ## 🔥 Latest Courses
 
 - [가장 쉽게 배우는 머신러닝](https://spartacodingclub.kr/online/ml_basic) (2021)
 - [이미지 처리로 시작하는 딥러닝](https://spartacodingclub.kr/online/dl) (2020)
-- 비트캠프 인공지능 멘토 (2019)
 
 [![chenggong0602's GitHub stats](https://github-readme-stats.vercel.app/api?username=chenggong0602&theme=react&show_icons=true&hide=contribs,prs&cache_seconds=1800)](https://github.com/chenggong0602)
