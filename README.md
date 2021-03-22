@@ -7,9 +7,9 @@ I❤️ code, Python and anything **CREATIVE**✨
 
 ## 📬 Get in touch
 
-- LinkedIn: [linkedin.com/in/chenggong-li-ai-5331501aa/][1]
+- LinkedIn: [linkedin.com/in/chenggong-li-ai-5331501aa][1]
 - Twitter: [twitter.com/chenggong_li][2]
-- Blog: [https://ai-chenggong.blogspot.com/][3]
+- Blog: [https://ai-chenggong.blogspot.com][3]
 
 ## 💻 Technologies I Love
 
