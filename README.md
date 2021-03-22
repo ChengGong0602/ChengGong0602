@@ -34,10 +34,10 @@ I❤️ code, Python and anything **CREATIVE**✨
 - 🌱 Learning developing hardwares and serial communication using Python
 
 
-## 🔥 Latest Courses
+## 🔥 Latest Projects
 
-- [가장 쉽게 배우는 머신러닝](https://spartacodingclub.kr/online/ml_basic) (2021)
-- [이미지 처리로 시작하는 딥러닝](https://spartacodingclub.kr/online/dl) (2020)
+- [Facial recognition system](https://www.youtube.com/watch?v=lttmvmI-Ltg) (2021)
+- [License Plate Recognition](https://www.youtube.com/watch?v=aCMP8waolR8) (2020)
 
 
 ## &#x1f4c8; My GitHub Stats
