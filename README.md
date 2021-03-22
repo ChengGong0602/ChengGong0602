@@ -40,3 +40,9 @@ I❤️ code, Python and anything **CREATIVE**✨
 - [이미지 처리로 시작하는 딥러닝](https://spartacodingclub.kr/online/dl) (2020)
 
 [![chenggong0602's GitHub stats](https://github-readme-stats.vercel.app/api?username=chenggong0602&theme=react&show_icons=true&hide=contribs,prs&cache_seconds=1800)](https://github.com/ChengGong0602)
+
+[1]:
+  https://natterstefan.me/?utm_source=github.com&utm_medium=gh-profile-natterstefan&utm_campaign=natterstefan
+[2]: https://www.linkedin.com/in/natterstefan
+[3]: https://twitter.com/intent/follow?screen_name=natterstefan
+[4]: https://blog.natterstefan.me
