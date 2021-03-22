@@ -23,7 +23,7 @@ I❤️ code, Python and anything **CREATIVE**✨
 ## 📘 Bio
 
 - 🏢 I'm currently working at **[zyfesco](zyfesco.com.cn/ai)**
-- (santa)  YouTuber [Artificial Intelligence Applications](https://www.youtube.com/channel/UCPgM2w3N2PnQvoqxA9CtOBQ)
+- ▶ YouTuber [Artificial Intelligence Applications](https://www.youtube.com/channel/UCPgM2w3N2PnQvoqxA9CtOBQ)
 - ⚙️ I love to create creative A.I. solutions
 - 💬 I love to talking about solution business. Don't hesitate to contact me.
 - 🌱 Learning developing hardwares and serial communication using Python
