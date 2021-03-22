@@ -13,7 +13,7 @@ I❤️ code, Python and anything **CREATIVE**✨
 - Image Processing
 - Data Science
 - Backend Web Development
-- Growth Hacking
+
 
 ## 🤐 Programming Languages
 
@@ -27,7 +27,7 @@ I❤️ code, Python and anything **CREATIVE**✨
 - ⚙️ I love to create creative A.I. solutions
 - 💬 I love to talking about solution business. Don't hesitate to contact me.
 - 🌱 Learning developing hardwares and serial communication using Python
-- 🎄 Woodworking beginner
+
 
 ## 🔥 Latest Courses
 
