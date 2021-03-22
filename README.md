@@ -39,12 +39,12 @@ I❤️ code, Python and anything **CREATIVE**✨
 - [가장 쉽게 배우는 머신러닝](https://spartacodingclub.kr/online/ml_basic) (2021)
 - [이미지 처리로 시작하는 딥러닝](https://spartacodingclub.kr/online/dl) (2020)
 
-[![chenggong0602's GitHub stats](https://github-readme-stats.vercel.app/api?username=chenggong0602&theme=react&show_icons=true&hide=contribs,prs&cache_seconds=1800)](https://github.com/ChengGong0602)
+[![chenggong0602's GitHub stats](https://github-readme-stats.vercel.app/api?username=chenggong0602&theme=react&show_icons=true&hide=contribs,prs&cache_seconds=1800)](https://github.com/ChengGong0602/Chenggong0602)
 
 ## &#x1f4c8; My GitHub Stats
 
 <a href="https://github.com/chenggong0602/chenggong0602">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chenggong0602&hide=html,objective-c, ruby&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chenggong0602&hide=html,javascript,objective-c, ruby&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
 
 <a href="https://github.com/chenggong0602">
