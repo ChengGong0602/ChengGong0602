@@ -9,7 +9,7 @@ I❤️ code, Python and anything **CREATIVE**✨
 
 - LinkedIn: [linkedin.com/in/chenggong-li-ai-5331501aa][1]
 - Twitter: [twitter.com/chenggong_li][2]
-- Blog: [https://ai-chenggong.blogspot.com][3]
+- Blog: [ai-chenggong.blogspot.com][3]
 
 ## 💻 Technologies I Love
 
@@ -41,8 +41,6 @@ I❤️ code, Python and anything **CREATIVE**✨
 
 [![chenggong0602's GitHub stats](https://github-readme-stats.vercel.app/api?username=chenggong0602&theme=react&show_icons=true&hide=contribs,prs&cache_seconds=1800)](https://github.com/ChengGong0602)
 
-[1]:
-  https://natterstefan.me/?utm_source=github.com&utm_medium=gh-profile-natterstefan&utm_campaign=natterstefan
-[2]: https://www.linkedin.com/in/natterstefan
-[3]: https://twitter.com/intent/follow?screen_name=natterstefan
-[4]: https://blog.natterstefan.me
+[1]: https://www.linkedin.com/in/chenggong-li-ai-5331501aa
+[2]: https://twitter.com/chenggong_li
+[3]: https://ai-chenggong.blogspot.com
