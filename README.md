@@ -47,8 +47,8 @@ I❤️ code, Python and anything **CREATIVE**✨
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chenggong0602&hide=java,html&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
 
-<a href="https://github.com/chenggong0602/chenggong0602">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=chenggong0602&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Catalin's GitHub Stats" />
+<a href="https://github.com/chenggong0602">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ChengGong0602&theme=react&show_icons=true&line_height=27&count_private=true&hide=contribs,prs&cache_seconds=1800&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Catalin's GitHub Stats" />
 </a>
 
 [1]: https://www.linkedin.com/in/chenggong-li-ai-5331501aa
