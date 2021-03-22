@@ -36,7 +36,7 @@ I❤️ code, Python and anything **CREATIVE**✨
 
 ## 🔥 Latest Projects
 
-- [Facial recognition system](https://www.youtube.com/watch?v=lttmvmI-Ltg) (2021)
+- [Facial recognition system](https://www.youtube.com/watch?v=hYW94fj7iVc) (2021)
 - [License Plate Recognition](https://www.youtube.com/watch?v=aCMP8waolR8) (2020)
 
 
