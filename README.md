@@ -47,7 +47,7 @@ I❤️ code, Python and anything **CREATIVE**✨
 </a>
 
 <a href="https://github.com/chenggong0602">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ChengGong0602&theme=react&show_icons=true&line_height=27&count_private=true&hide=contribs,prs&cache_seconds=100&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Chenggong0602's GitHub Stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ChengGong0602&theme=react&show_icons=true&line_height=27&count_private=true&hide=contribs,prs&cache_seconds=1&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Chenggong0602's GitHub Stats" />
 </a>
 
 [1]: https://www.linkedin.com/in/chenggong-li-ai-5331501aa
