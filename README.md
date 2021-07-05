@@ -29,9 +29,9 @@ I❤️ code, AI, BlockChain and anything **CREATIVE**✨
 
 - 🏢 I'm currently working on BlockChain Smart contract 
 - ▶ YouTuber [Cheng Gong](https://www.youtube.com/channel/UC39BTjruHVeb_dakcdis-0w/featured)
-- ⚙️ I love to create creative A.I. solutions
+- ⚙️ I love to create creative solutions
 - 💬 I love to talking about solution business. Don't hesitate to contact me.
-- 🌱 Learning developing hardwares and serial communication using Python
+- 🌱 Learning developing NFT 
 
 
 ## 🔥 Latest Projects
