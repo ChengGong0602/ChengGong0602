@@ -1,23 +1,23 @@
 # Hello Eveyone! I'm ChengGong <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-I❤️ code, Python and anything **CREATIVE**✨
+I❤️ code, AI, BlockChain and anything **CREATIVE**✨
 
-[![Email Badge](https://img.shields.io/badge/-chenggong0602@163.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:chenggong0602@163.com)](mailto:chenggong0602@163.com)
+[![Email Badge](https://img.shields.io/badge/-chenggong0602@163.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:chenggong0602@163.com)](mailto:chenggong.ai.ml@gmail.com)
 ![](https://komarev.com/ghpvc/?username=chenggong0602)
 
 ## 📬 Get in touch
 
 - LinkedIn: [linkedin.com/in/chenggong-li-ai-5331501aa][1]
 - Twitter: [twitter.com/chenggong_li][2]
-- Blog: [ai-chenggong.blogspot.com][3]
+
 
 ## 💻 Technologies I Love
 
-- Machine Learning
-- Deep Learning
-- Image Processing
-- Data Science
+- BlockChain, Smart contract
+- Machine Learning, Deep Learning
+- Computer Vision, Data Science
 - Backend Web Development
+
 
 
 ## 📕 Programming Languages
@@ -27,8 +27,8 @@ I❤️ code, Python and anything **CREATIVE**✨
 
 ## 📘 Bio
 
-- 🏢 I'm currently working at Passke 
-- ▶ YouTuber [Artificial Intelligence Applications](https://www.youtube.com/channel/UCPgM2w3N2PnQvoqxA9CtOBQ)
+- 🏢 I'm currently working on BlockChain Smart contract 
+- ▶ YouTuber [Cheng Gong](https://www.youtube.com/channel/UC39BTjruHVeb_dakcdis-0w/featured)
 - ⚙️ I love to create creative A.I. solutions
 - 💬 I love to talking about solution business. Don't hesitate to contact me.
 - 🌱 Learning developing hardwares and serial communication using Python
@@ -36,7 +36,7 @@ I❤️ code, Python and anything **CREATIVE**✨
 
 ## 🔥 Latest Projects
 
-- [Facial recognition system](https://www.youtube.com/watch?v=hYW94fj7iVc) (2021)
+- [Facial recognition system](https://www.youtube.com/watch?v=TJNiJ28UbHI) (2021)
 - [License Plate Recognition](https://www.youtube.com/watch?v=aCMP8waolR8) (2020)
 
 
@@ -52,4 +52,3 @@ I❤️ code, Python and anything **CREATIVE**✨
 
 [1]: https://www.linkedin.com/in/chenggong-li-ai-5331501aa
 [2]: https://twitter.com/chenggong_li
-[3]: https://ai-chenggong.blogspot.com
