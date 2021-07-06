@@ -35,7 +35,7 @@ I❤️ code, AI, BlockChain and anything **CREATIVE**✨
 
 
 ## 🔥 Latest Projects
-
+- [Binance Smart contract for lottery](https://lottery-chenggong.netlify.app) (2021)
 - [Facial recognition system](https://www.youtube.com/watch?v=TJNiJ28UbHI) (2021)
 - [License Plate Recognition](https://www.youtube.com/watch?v=aCMP8waolR8) (2020)
 
