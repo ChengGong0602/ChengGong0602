@@ -7,8 +7,9 @@ I❤️ code, AI, BlockChain and anything **CREATIVE**✨
 
 ## 📬 Get in touch
 
-[![Email Badge](https://img.shields.io/badge/-chenggong.ai.ml@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:chenggong.ai.ml@gmail.com)](mailto:chenggong.ai.ml@gmail.com)
 - Twitter: [twitter.com/chenggong_li][2]
+- Telegram: @chenggong01
+- Discord: ChengGong#0302
 
 
 ## 💻 Technologies I Love
