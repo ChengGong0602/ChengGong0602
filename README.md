@@ -2,7 +2,7 @@
 
 I❤️ code, AI, BlockChain and anything **CREATIVE**✨
 
-[![Email Badge](https://img.shields.io/badge/-chenggong.ai.ml@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:chenggong.ai.ml@gmail.com)](mailto:chenggong.ai.ml@gmail.com)
+
 ![](https://komarev.com/ghpvc/?username=chenggong0602)
 
 ## 📬 Get in touch
