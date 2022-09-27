@@ -21,7 +21,7 @@ I❤️ code, AI, BlockChain and anything **CREATIVE**✨
 
 ## 📕 Programming Languages
 
-<img alt="Python" src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/> 
+
 <span><img src="https://img.shields.io/badge/Rust-282C34?logo=Rust&logoColor=fff" alt="Rust logo" title="Rust" height="20" />
 &nbsp;
 <img src="https://img.shields.io/badge/Solidity-282C34?logo=Solidity&logoColor=ddd" alt="Solidity logo" title="Solidity" height="20" />
