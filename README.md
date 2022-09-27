@@ -6,7 +6,7 @@ I❤️ code, AI, BlockChain and anything **CREATIVE**✨
 ## 📬 Get in touch
 
 - Twitter: [twitter.com/chenggong_li][2]
-- Telegram: @chenggong01
+- Telegram: <a href="https://t.me/ai2022meta/"><img align="left" src="https://raw.githubusercontent.com/black-wyvern-dev/black-wyvern-dev/main/images/telegram.svg" alt="Alex | Telegram" width="24px"/></a>
 - Discord: ChengGong#0302
 
 
