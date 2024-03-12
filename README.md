@@ -5,9 +5,10 @@
 I❤️ code, AI, BlockChain and anything **CREATIVE**✨
 ## 📬 Get in touch
 
-- Twitter: [twitter.com/chenggong_li][2]
-- <a href="https://t.me/ai2022meta/"><img align="left" src="https://raw.githubusercontent.com/black-wyvern-dev/black-wyvern-dev/main/images/telegram.svg" alt="Alex | Telegram" width="24px"/></a>
-- Discord: ChengGong#0302
+- [![Telegram](https://img.shields.io/badge/Telegram-Contact%20Me-blue?style=flat-square&logo=telegram)](https://t.me/ai2022meta)
+- [![Discord](https://img.shields.io/badge/Discord-ChengGong%230302-blue?style=flat-square&logo=discord)](https://discord.com)
+- [![Twitter](https://img.shields.io/badge/Twitter-Follow%20%40chenggong__li-blue?style=flat-square&logo=twitter)](https://twitter.com/chenggong_li)
+
 
 
 ## 💻 Technologies I Love
