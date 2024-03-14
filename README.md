@@ -75,6 +75,7 @@ I❤️ code, AI, BlockChain and anything **CREATIVE**✨
 
 
 ## 🔥 Latest Projects
+- [Houdiniswap](https://www.houdiniswap.com) (2023)
 - [Wickens NFT](https://www.wickensnft.net) (2022)
 - [Binance Smart contract for lottery](https://lottery-chenggong.netlify.app) (2021)
 - [Facial recognition system](https://www.youtube.com/watch?v=TJNiJ28UbHI) (2021)
