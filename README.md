@@ -1,9 +1,12 @@
-[![Email Badge](https://img.shields.io/badge/-chenggong.ai.ml@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:chenggong.ai.ml@gmail.com)](mailto:chenggong.ai.ml@gmail.com)
+[![Email Badge](https://img.shields.io/badge/-chenggong.ai.dl@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:chenggong.ai.dl@gmail.com)](mailto:chenggong.ai.dl@gmail.com)
 ![](https://komarev.com/ghpvc/?username=chenggong0602)
 
-# Hello Eveyone! I'm ChengGong <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
-I❤️ code, AI, BlockChain and anything **CREATIVE**✨
-## 📬 Get in touch
+I'm deeply passionate about coding, AI, Blockchain, and everything creative. With a focus on building innovative solutions, I love to explore the intersection of technology and creativity. My work primarily revolves around Blockchain technologies like DEX and DeFi platforms, Machine Learning, Deep Learning, and Full-Stack Development. 
+
+## 📬 Let's Connect!
+
+If you're interested in discussing technology, sharing ideas, or collaborating on projects, feel free to reach out to me through any of the platforms below:
+
 
 - [![Telegram](https://img.shields.io/badge/Telegram-Contact%20Me-blue?style=flat-square&logo=telegram)](https://t.me/ai2022meta)
 - [![Discord](https://img.shields.io/badge/Discord-ChengGong%230302-blue?style=flat-square&logo=discord)](https://discord.com)
@@ -11,12 +14,23 @@ I❤️ code, AI, BlockChain and anything **CREATIVE**✨
 
 
 
-## 💻 Technologies I Love
+## 💻 Technologies & Tools
 
-- BlockChain, Smart contract
-- Machine Learning, Deep Learning
-- Computer Vision, Data Science
-- Backend Web Development
+I am proficient in and love working with the following technologies:
+
+- **Blockchain Technologies**: BlockChain, DEX, DeFi
+- **AI & Data Science**: Machine Learning, Deep Learning, Computer Vision, Data Science
+- **Web Development**: Full-Stack Development with a focus on React, Next.js, Vue.js, Nuxt.js, and modern JavaScript frameworks
+- **Programming Languages**: Python, Rust, Solidity, JavaScript, TypeScript
+- **Tools & Platforms**: Git, Docker, Firebase, Visual Studio Code
+
+## 📘 About Me
+
+- 🏢 Currently developing innovative DEX and DeFi platforms, like [ghosty.cash](https://ghosty.cash)
+- ▶  Creating content on my YouTube channel [Cheng Gong](https://www.youtube.com/channel/UC39BTjruHVeb_dakcdis-0w/featured) aimed at educating and sharing insights into blockchain and AI.
+- 🌱 Constantly exploring new technologies and solutions in the blockchain and AI space.
+- 💬 Open to discussing business solutions and collaborations.
+
 
 
 
@@ -65,21 +79,16 @@ I❤️ code, AI, BlockChain and anything **CREATIVE**✨
 
 
 
-## 📘 Bio
-
-- 🏢 I'm currently working on BlockChain Smart contract 
-- ▶ YouTuber [Cheng Gong](https://www.youtube.com/channel/UC39BTjruHVeb_dakcdis-0w/featured)
-- ⚙️ I love to create creative solutions
-- 💬 I love to talking about solution business. Don't hesitate to contact me.
-- 🌱 Learning developing NFT 
-
 
 ## 🔥 Latest Projects
-- [Houdiniswap](https://www.houdiniswap.com) (2023)
-- [Wickens NFT](https://www.wickensnft.net) (2022)
-- [Binance Smart contract for lottery](https://lottery-chenggong.netlify.app) (2021)
-- [Facial recognition system](https://www.youtube.com/watch?v=TJNiJ28UbHI) (2021)
-- [License Plate Recognition](https://www.youtube.com/watch?v=aCMP8waolR8) (2020)
+
+I'm proud to showcase my latest projects, which represent my commitment to innovation and excellence in technology:
+
+- [Houdiniswap](https://www.houdiniswap.com) (2023): A cutting-edge decentralized exchange platform.
+- [Wickens NFT](https://www.wickensnft.net) (2022): An NFT project with unique digital assets.
+- [Binance Smart Contract for Lottery](https://lottery-chenggong.netlify.app) (2021): A blockchain-based lottery system.
+- [Facial Recognition System](https://www.youtube.com/watch?v=TJNiJ28UbHI) (2021): Advanced AI-driven facial recognition technology.
+- [License Plate Recognition](https://www.youtube.com/watch?v=aCMP8waolR8) (2020): An efficient license plate recognition system using AI.
 
 
 ## &#x1f4c8; My GitHub Stats
